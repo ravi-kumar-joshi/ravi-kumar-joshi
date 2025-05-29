@@ -16,7 +16,7 @@
 - 🎯 **Goal-Oriented Learner** with a passion for turning ideas into web applications  
 - 💡 Currently exploring **Machine Learning** and **Advanced Web Technologies**  
 - 📚 Always eager to learn, collaborate, and grow in the tech community  
-- 📖 Fun Fact: I love coding, book reading, and traveling ✈️📚💻  
+- 📖 **Fun Fact:** I love coding, book reading, and traveling ✈️📚💻  
 
 ---
 
@@ -42,16 +42,16 @@
 ### 🔥 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravik755296&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravik755296&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravi-kumar-joshi&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-kumar-joshi&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravik755296&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-kumar-joshi&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravik755296&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravi-kumar-joshi&theme=tokyonight" />
 </p>
 
 ---
@@ -85,7 +85,7 @@
 ### 📈 Visitors & Metrics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravik755296&label=Visitors&color=0e75b6&style=flat" alt="Visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=ravi-kumar-joshi&label=Visitors&color=0e75b6&style=flat" alt="Visitor counter" />
 </p>
 
 ---
@@ -100,5 +100,3 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Markdown-Validated-blue?style=flat-square&logo=markdown" alt="markdown badge" />
 </p>
-
-
