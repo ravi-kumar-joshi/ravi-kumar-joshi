@@ -1,7 +1,8 @@
 <!-- Banner Image Suggestion -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/ravi-kumar-joshi/ravi-kumar-joshi/blob/main/assets/banner.png" alt="Professional Banner" width="100%" />
 </p>
+-->
 
 <h1 align="center">Hi there 👋, I'm Ravi Kumar</h1>
 <p align="center">
@@ -16,7 +17,7 @@
 - 🎯 **Goal-Oriented Learner** with a passion for turning ideas into web applications  
 - 💡 Currently exploring **Machine Learning** and **Advanced Web Technologies**  
 - 📚 Always eager to learn, collaborate, and grow in the tech community  
-- 📖 **Fun Fact:** I love coding, book reading, and traveling ✈️📚💻  
+- 📖 **Fun Fact:** I love coding, book reading. 📚💻  
 
 ---
 
@@ -58,21 +59,17 @@
 
 ### 🚀 Notable Projects
 
-#### 🌟 Project Name 1
-> *Description:* [Brief description - what it does]  
-> *Tech Stack:* HTML, CSS, JavaScript
+#### 🌟 To-Do List Web App
+> *Description:* A responsive task management application that allows users to add, complete, and delete tasks. Features include local storage persistence, task filtering, and a clean UI.  
+> *Tech Stack:* HTML5, CSS3, JavaScript (ES6+)  
+> *Key Features:*  
+>   - ✔️ Add, edit, and delete tasks  
+>   - ✔️ Mark tasks as complete  
+>   - ✔️ Data persistence using localStorage  
+>   - ✔️ Responsive design (works on mobile & desktop)  
+>   - ✔️ Clean, minimalist user interface  
+> *Live Demo:* [https://ravi-kumar-joshi.github.io/To-do-list/](https://ravi-kumar-joshi.github.io/To-do-list/)
 
-#### 🌟 Project Name 2
-> *Description:* [Brief description - what it does]  
-> *Tech Stack:* C++, Figma
-
-#### 🌟 Project Name 3
-> *Description:* [Brief description - what it does]  
-> *Tech Stack:* JavaScript, GitHub, VS Code
-
-> 📌 _More coming soon… Stay tuned!_
-
----
 
 ### 📫 Let's Connect
 
