@@ -34,7 +34,6 @@
 
 #### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -56,20 +55,6 @@
 </p>
 
 ---
-
-### 🚀 Notable Projects
-
-#### 🌟 To-Do List Web App
-> *Description:* A responsive task management application that allows users to add, complete, and delete tasks. Features include local storage persistence, task filtering, and a clean UI.  
-> *Tech Stack:* HTML5, CSS3, JavaScript (ES6+)  
-> *Key Features:*  
->   - ✔️ Add, edit, and delete tasks  
->   - ✔️ Mark tasks as complete  
->   - ✔️ Data persistence using localStorage  
->   - ✔️ Responsive design (works on mobile & desktop)  
->   - ✔️ Clean, minimalist user interface  
-> *Live Demo:* [https://ravi-kumar-joshi.github.io/To-do-list/](https://ravi-kumar-joshi.github.io/To-do-list/)
-
 
 ### 📫 Let's Connect
 
