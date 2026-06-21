@@ -1,18 +1,21 @@
 <h1 align="center">Hi there 👋, I'm Ravi Kumar</h1>
 
 <p align="center">
-  🎓 B.C.A. Student &nbsp;|&nbsp; 💻 Aspiring Web Developer &nbsp;|&nbsp; 📍 Bijnor, U.P
+  💻 MERN Stack / Full Stack Web Developer &nbsp;|&nbsp; 🎓 B.C.A. Graduate &nbsp;|&nbsp; 📍 Bijnor, U.P
   <br>
-  📚 Currently studying at <strong>Rama Institute of Higher Education</strong>
+  📚 Graduated from <strong>Rama Institute of Higher Education</strong>, Kiratpur (Aug 2023 – Aug 2026)
 </p>
 
 <br>
 
 ## 💼 About Me
 
-- 🎯 **Goal-Oriented Learner** with a passion for turning ideas into web applications
-- 💡 Currently exploring **Machine Learning** and **Advanced Web Technologies**
-- 📚 Always eager to learn, collaborate, and grow in the tech community
+- 🔭 MERN stack developer with hands-on experience building and deploying a full-stack production app — **FinLearn**
+- 🎯 Skilled in HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and REST APIs
+- 🧩 Strong foundation in C/C++ and UI/UX design in Figma
+- 🧪 Completed **Forage's Skyscanner Front-End Engineering Job Simulation**
+- 🌱 Currently exploring **Machine Learning** and **Advanced Web Technologies**
+- 🤝 Seeking a MERN Stack / Full Stack Web Development role to contribute to real-world projects
 - 📖 **Fun Fact:** I love coding and reading books
 
 <br>
@@ -43,29 +46,47 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
 
 ## 🚀 Featured Project
 
-### 💰 [FinLearn](https://github.com/ravi-kumar-joshi/FinLearn)
-
-*A gamified financial literacy platform making financial education engaging through interactive courses, XP systems, and AI assistance.*
+### 💰 [FinLearn](https://github.com/ravi-kumar-joshi/FinLearn) — Full-Stack Personal Finance Web App
+*Dec 2025 – Jun 2026 · MERN Stack · Rama Institute of Higher Education, Kiratpur*
 
 ![React](https://img.shields.io/badge/React-19.2.6-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Node](https://img.shields.io/badge/Node-18%2B-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-6%2B-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
+A gamified personal finance platform built and deployed using the MERN stack, making financial education engaging through interactive courses, XP systems, and AI assistance.
+
 **Highlights**
-- 📘 Interactive courses on budgeting, investing, saving, and debt management
-- 🏆 Gamification system with XP, levels, streaks, and achievement badges
-- 🧮 7 real-time financial calculators (budget, investment, loan, SIP, inflation, emergency fund)
+- 🏆 Gamification system with XP tracking, daily streaks, and milestone badges to boost engagement
+- 📘 Structured, certificate-granting financial courses on budgeting, investing, saving, and debt management
 - 🤖 AI-powered chatbot (FinBot) for personalized finance guidance
-- 📜 Verified, shareable certificates with unique verification IDs
+- 🧮 7 real-world financial calculators including EMI, SIP, budgeting, loan, inflation, and emergency fund tools
+- 🧪 All backend API endpoints tested and validated using Postman for reliable client-server communication
 
 🔗 [github.com/ravi-kumar-joshi/FinLearn](https://github.com/ravi-kumar-joshi/FinLearn)
+
+<br>
+
+## 🧪 Virtual Experience
+
+**Front-End Software Engineering Job Simulation** — Skyscanner via Forage *(Sep 2025)*
+- Completed a job simulation involving practical front-end engineering tasks for Skyscanner's dev team
+- Built a React-based "Backpack" feature web app using component-based architecture and state management
+- Practiced debugging, component design, and code review workflows used in industry settings
+
+<br>
+
+## 📜 Certifications
+
+- Introduction to C Programming
+- C++ Course Completion
 
 <br>
 
