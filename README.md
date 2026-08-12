@@ -1,134 +1,375 @@
-<h1 align="center">Hi there 👋, I'm Ravi Kumar</h1>
+<div align="center">
 
-<p align="center">
-  💻 MERN Stack / Full Stack Web Developer &nbsp;|&nbsp; 🎓 B.C.A. Graduate &nbsp;|&nbsp; 📍 Bijnor, U.P
-  <br>
-  📚 Graduated from <strong>Rama Institute of Higher Education</strong>, Kiratpur (Aug 2023 – Aug 2026)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:312E81,100:6366F1&section=header&text=Ravi%20Kumar&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20BCA%202026&descAlignY=62&descSize=18" />
+
+<br>
+
+<h1>Hey, I'm Ravi Kumar 👋</h1>
+
+<h3>Full-Stack Developer • MERN Stack • BCA Graduate</h3>
+
+<p>
+  I build <b>useful, scalable & user-focused web applications</b><br>
+  with modern technologies, clean architecture and thoughtful UI.
 </p>
 
 <br>
 
-## 💼 About Me
+<a href="https://github.com/ravi-kumar-joshi">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ravi-webdeveloper/">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+&nbsp;
+<a href="mailto:ravik755296@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
-- 🔭 MERN stack developer with hands-on experience building and deploying a full-stack production app — **FinLearn**
-- 🎯 Skilled in HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and REST APIs
-- 🧩 Strong foundation in C/C++ and UI/UX design in Figma
-- 🧪 Completed **Forage's Skyscanner Front-End Engineering Job Simulation**
-- 🌱 Currently exploring **Machine Learning** and **Advanced Web Technologies**
-- 🤝 Seeking a MERN Stack / Full Stack Web Development role to contribute to real-world projects
-- 📖 **Fun Fact:** I love coding and reading books
+<br><br>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=ravi-kumar-joshi&label=Profile%20Views&color=6366F1&style=flat-square" />
 
-## 🛠️ Tech Stack & Tools
+</div>
 
-**Programming Languages**
+---
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 👨‍💻 About Me
 
-**Frontend**
+I'm **Ravi Kumar**, a Full-Stack Web Developer and BCA graduate passionate about building modern web applications that solve real-world problems.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+I enjoy working across the complete development lifecycle — from **UI/UX design and frontend development** to **backend APIs, databases, testing, debugging and deployment**.
 
-**Backend**
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  🎯 ROLE        Full-Stack / MERN Developer                      │
+│  ⚡ SPECIALTY   React · Node.js · Express · MongoDB              │
+│  🎨 DESIGN      UI/UX · Figma                                    │
+│  🧠 INTERESTS   AI · Python · Machine Learning                   │
+│  🚀 MINDSET     Learn → Build → Improve → Ship                   │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🚀 What I Do
 
-**Tools & Platforms**
+* Build full-stack applications using the **MERN stack**
+* Create responsive and modern interfaces with **React**
+* Develop structured **REST APIs**
+* Build backend services with **Node.js & Express**
+* Work with **MongoDB** and database-driven applications
+* Design user interfaces and flows using **Figma**
+* Debug, test and improve applications
+* Use AI-assisted development tools to increase productivity
+* Learn new technologies through real-world projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+---
 
-<br>
+# 🧰 Tech Stack
 
-## 🚀 Featured Project
+<div align="center">
 
-### 💰 [FinLearn](https://github.com/ravi-kumar-joshi/FinLearn) — Full-Stack Personal Finance Web App
-*Dec 2025 – Jun 2026 · MERN Stack · Rama Institute of Higher Education, Kiratpur*
+### 💻 Languages
 
-![React](https://img.shields.io/badge/React-19.2.6-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node](https://img.shields.io/badge/Node-18%2B-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-6%2B-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+<img src="https://skillicons.dev/icons?i=js,python,cpp,c" />
 
-A gamified personal finance platform built and deployed using the MERN stack, making financial education engaging through interactive courses, XP systems, and AI assistance.
+<br><br>
 
-**Highlights**
-- 🏆 Gamification system with XP tracking, daily streaks, and milestone badges to boost engagement
-- 📘 Structured, certificate-granting financial courses on budgeting, investing, saving, and debt management
-- 🤖 AI-powered chatbot (FinBot) for personalized finance guidance
-- 🧮 7 real-world financial calculators including EMI, SIP, budgeting, loan, inflation, and emergency fund tools
-- 🧪 All backend API endpoints tested and validated using Postman for reliable client-server communication
+### 🎨 Frontend
 
-🔗 [github.com/ravi-kumar-joshi/FinLearn](https://github.com/ravi-kumar-joshi/FinLearn)
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 
-<br>
+<br><br>
 
-## 🧪 Virtual Experience
+### ⚙️ Backend & Database
 
-**Front-End Software Engineering Job Simulation** — Skyscanner via Forage *(Sep 2025)*
-- Completed a job simulation involving practical front-end engineering tasks for Skyscanner's dev team
-- Built a React-based "Backpack" feature web app using component-based architecture and state management
-- Practiced debugging, component design, and code review workflows used in industry settings
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-<br>
+<br><br>
 
-## 📜 Certifications
+### 🛠️ Tools
 
-- Introduction to C Programming
-- C++ Course Completion
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
-<br>
+</div>
 
-## 🔥 GitHub Stats & Activity
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravi-kumar-joshi&show_icons=true&theme=tokyonight" height="180" alt="Ravi's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-kumar-joshi&theme=tokyonight" height="180" alt="Ravi's GitHub streak" />
-</p>
+# 🚀 Featured Project
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-kumar-joshi&layout=compact&theme=tokyonight" alt="Ravi's top languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravi-kumar-joshi&theme=tokyonight" alt="Ravi's profile summary" />
-</p>
+## 💰 FinLearn
 
-<br>
+### Gamified Personal Finance Learning Platform
 
-## 📫 Let's Connect
+<a href="https://github.com/ravi-kumar-joshi/FinLearn">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-- 📧 Email: [ravik755296@gmail.com](mailto:ravik755296@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ravi-webdeveloper](https://www.linkedin.com/in/ravi-webdeveloper/)
-- 🌐 Portfolio: *Coming soon*
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/REST_API-0F172A?style=flat-square&logo=postman&logoColor=FF6C37" />
 
-## 📈 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravi-kumar-joshi&label=Visitors&color=0e75b6&style=flat" alt="Visitor counter" />
-</p>
+</div>
 
 <br>
 
-## 🧠 Motto
+> **FinLearn** is a full-stack financial literacy platform designed to make learning personal finance more interactive, practical and engaging.
 
-> *"Code with passion. Learn with curiosity. Grow with consistency."*
+### 🎯 Problem
+
+Financial literacy is often overlooked, especially among students and young people.
+
+Many people struggle to understand:
+
+* Budgeting
+* Saving
+* Investing
+* Loans
+* Credit
+* Emergency funds
+* Financial planning
+
+**FinLearn** combines education, gamification, practical tools and AI assistance to make these concepts easier to understand.
+
+---
+
+## ✨ Key Features
+
+|     | Feature                   | Description                                    |
+| :-: | :------------------------ | :--------------------------------------------- |
+|  🏆 | **Gamification**          | XP, streaks, milestones and achievement badges |
+|  📚 | **Financial Courses**     | Structured learning modules                    |
+|  🤖 | **FinBot AI**             | AI-powered financial learning assistant        |
+|  🧮 | **Financial Calculators** | 7 practical financial planning tools           |
+|  🎓 | **Certificates**          | Course completion certification                |
+|  📊 | **Progress Tracking**     | Lessons, quizzes, XP and achievements          |
+|  🔌 | **REST APIs**             | Structured client-server architecture          |
+|  📱 | **Responsive UI**         | Modern responsive user experience              |
+
+---
+
+## 🧠 Architecture
+
+```text
+                         ┌──────────────────────┐
+                         │       FINLEARN       │
+                         │     Web Platform     │
+                         └──────────┬───────────┘
+                                    │
+             ┌──────────────────────┼──────────────────────┐
+             │                      │                      │
+             ▼                      ▼                      ▼
+      ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
+      │   React UI  │       │  REST API   │       │   FinBot AI │
+      │             │       │   Backend   │       │  Assistant  │
+      └──────┬──────┘       └──────┬──────┘       └─────────────┘
+             │                      │
+             │                      ▼
+             │               ┌─────────────┐
+             └──────────────►│   MongoDB   │
+                             │   Database  │
+                             └─────────────┘
+```
+
+### 🛠️ Engineering Highlights
+
+* Component-based React architecture
+* RESTful backend API development
+* MongoDB database integration
+* Client-server communication
+* API testing using Postman
+* Responsive UI development
+* Gamification and progress systems
+* AI-assisted development workflow
+
+**Development:** December 2025 → June 2026
+**Technology:** MERN Stack
+**Project Type:** Academic / Full-Stack Project
+
+---
+
+# 🧪 Experience
+
+## ✈️ Skyscanner × Forage
+
+### Front-End Software Engineering Job Simulation
+
+**September 2025**
+
+Completed a practical front-end engineering simulation focused on real-world software development workflows.
+
+### Worked With
+
+`React` · `Component Architecture` · `State Management` · `Debugging` · `Code Review`
+
+---
+
+# 🏅 Certifications
+
+| Certification                                                 | Focus                    |
+| :------------------------------------------------------------ | :----------------------- |
+| 🎯 **Skyscanner — Front-End Software Engineering Simulation** | Frontend Engineering     |
+| 🤖 **AI for All**                                             | Artificial Intelligence  |
+| 💻 **Introduction to C Programming**                          | Programming Fundamentals |
+| ⚙️ **C++ Course Completion**                                  | Programming Fundamentals |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ravi-kumar-joshi&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=6366F1&icon_color=6366F1&text_color=64748B" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-kumar-joshi&hide_border=true&theme=transparent&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-kumar-joshi&layout=compact&hide_border=true&theme=transparent&title_color=6366F1&text_color=64748B" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravi-kumar-joshi&theme=transparent" />
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  🐍  Python                                                  │
+│  🤖  Machine Learning                                        │
+│  ⚛️  Advanced React                                           │
+│  🏗️  Scalable Backend Architecture                          │
+│  🎨  Product Design & UI/UX                                  │
+│  ☁️  Deployment & Modern Web Infrastructure                  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# 🛠️ My Development Workflow
+
+<div align="center">
+
+```text
+        💡 IDEA
+           │
+           ▼
+   🔍 Understand Problem
+           │
+           ▼
+    🎨 Design Experience
+           │
+           ▼
+    ⚛️ Build Interface
+           │
+           ▼
+     🔌 Develop APIs
+           │
+           ▼
+    🗄️ Connect Database
+           │
+           ▼
+      🧪 Test & Debug
+           │
+           ▼
+        🚀 Deploy
+           │
+           ▼
+       🔄 Improve
+```
+
+</div>
+
+> I don't want to just write code that works.
+>
+> **I want to understand the problem, build the right solution and make the experience better.**
+
+---
+
+# 🎯 2026 Goals
+
+<div align="center">
+
+### Become a stronger software engineer by building more, learning deeper and shipping consistently.
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Markdown-Validated-blue?style=flat-square&logo=markdown" alt="Markdown validated badge" />
-</p>
+`Full-Stack Engineering` · `System Design` · `AI / ML` · `Open Source` · `Problem Solving`
+
+</div>
+
+---
+
+# 💡 My Philosophy
+
+<div align="center">
+
+### Don't just write code.
+
+## **Build something that solves a real problem.**
+
+<br>
+
+`Learn` → `Build` → `Break` → `Debug` → `Improve` → `Ship`
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm currently open to:
+
+**Internships · Entry-Level Roles · Open Source · Collaborations · Interesting Projects**
+
+<br>
+
+<div align="center">
+
+<a href="mailto:ravik755296@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ravi-webdeveloper/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/ravi-kumar-joshi">
+  <img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+📍 **India** · 🌐 **Open to Opportunities**
+
+<br><br>
+
+<i>"Code with passion. Learn with curiosity. Grow with consistency."</i>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6366F1,50:312E81,100:111827&section=footer" />
+
+</div>
